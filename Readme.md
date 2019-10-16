@@ -1,5 +1,4 @@
 ## Welcome to InterviewBit Academy
-
 # Day 1 covers: (Find these inside week-0/day-1)
 * Bash
     * `segregate_photos.sh`: Segregate photos by years. Run this: `cd week-0/day-1/photos` and then run script like this: `bash ../segregate_photos.sh`
